@@ -1,0 +1,2 @@
+# Prototype-Charging-Station-Baterai-Kendaraan-Listrik-berbasis-Blynk
+Proyek ini dirancang untuk mengisi baterai kendaraan listrik pada stasiun pengisian. Setelah baterai terisi penuh, relay akan bekerja memutus arus, dan informasi konsumsi daya yang harus dibayar oleh pelanggan akan ditampilkan. Pengukuran daya menggunakan sensor PZEM-004T, sedangkan modul TP4056 bertanggung jawab atas pengisian baterai 18650.
